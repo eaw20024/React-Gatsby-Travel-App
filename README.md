@@ -1,3 +1,5 @@
+<img width="1653" alt="screenshot" src="https://user-images.githubusercontent.com/8358989/133913957-17ee56ad-5480-4930-bac7-609eb210c07c.png">
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
